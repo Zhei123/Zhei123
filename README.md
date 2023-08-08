@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zhei123
 - 👀 I’m interested in ...reading
 - 🌱 I’m currently learning ... humms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...github
+- 📫 How to reach me ... to email
 
 <!---
 Zhei123/Zhei123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
